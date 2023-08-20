@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TOP</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <script src="js/main.js"></script>
+  <div id="block">
+     <h1 class="text">Minecraft</h1>
+  </div>
+  <div id="ret">Minecraft is a 3D sandbox game that has no required goals to accomplish, allowing players a large amount of freedom in choosing how to play the game!</div>
+<div class="p">
+  <p>Minecraft is a 3D sandbox game that has no required goals to accomplish, allowing players a large amount of freedom in choosing how to play the game.[17] However, there is an achievement system,[18] known as "advancements" in the Java Edition of the game, "trophies" on the PlayStation ports, and "achievements" in Bedrock Edition and the Xbox ports.[19] Gameplay is in the first-person perspective by default, but players have the option of a third-person perspective.[20] The game world is composed of rough 3D objects—mainly cubes and fluids, and commonly called "blocks"—representing various materials, such as dirt, stone, ores, tree trunks, water, and lava. The core gameplay revolves around picking up and placing these objects. These blocks are arranged in a 3D grid, while players can move freely around the world. Players can "mine" blocks and then place them elsewhere, enabling them to build things.[21] Many commentators have described the game's physics system as unrealistic.[22] The game also contains a material called redstone, which can be used to make primitive mechanical devices, electrical circuits, and logic gates, allowing for the construction of many complex systems.[23]</p>
+  <br>
+  <p>The game world is virtually infinite and procedurally generated as players explore it, using a map seed that is obtained from the system clock at the time of world creation (or manually specified by the player).[24][25][26] There are limits on vertical movement, but Minecraft allows an infinitely large game world to be generated on the horizontal plane. Due to technical issues when extremely distant locations are reached, however, there is a barrier preventing players from traversing to locations beyond 30 million blocks from the center.[i][obsolete source] The game achieves this by splitting the world data into smaller 16 by 16 sections called "chunks" that are only created or loaded when players are nearby.[24] The world is divided into biomes ranging from deserts to jungles to snowfields;[27][28] the terrain includes plains, mountains, forests, caves, and bodies of water or lava.[26] The in-game time system follows a day and night cycle, with one full cycle lasting for 20 real-time minutes.</p>
+</div>
+
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.F0mIB5kWOldDWtdyWipr2AHaD3%26pid%3DApi&f=1&ipt=639aff2c73752b4cd2aa1a34a841a5908eec6773827d56bae74525f05ecc1fce&ipo=images">
+
+<div class="dis">
+ <div onclick="yt()">
+  <button class="custom-btn btn-3"><span>YouTube</span></button>
+ </div>
+ <div onclick="gt()">
+  <button class="custom-btn btn-3"><span>GitHub</span></button>
+ </div>
+ <div onclick="ds()">
+  <button class="custom-btn btn-3"><span>Discord</span></button>
+ </div>
+</div>
+</body>
+</html>

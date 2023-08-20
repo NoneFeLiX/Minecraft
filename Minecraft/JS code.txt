@@ -1,0 +1,14 @@
+function yt() {
+   confirm("Покинуть страницу?");
+   window.location = 'https://youtube.com/@0fenix';
+}
+
+function gt() {
+    confirm("Покинуть страницу?");
+    window.location = 'https://github.com/NoneFeLiX';
+ }
+
+ function ds() {
+    confirm("Покинуть страницу?");
+    window.location = 'https://discord.gg/4V9SWPvnbQ';
+ }
